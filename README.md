@@ -10,7 +10,7 @@ Analytics Master is a scalable web application developed using modern full-stack
 
 The project follows software engineering best practices with a focus on clean code, maintainability, and user-centered design.
 
----
+----
 
 ## Key Features
 
